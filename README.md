@@ -89,4 +89,4 @@ The following actions are currently possible
 - Generate a video from the current image
 
 ## Licenses etc.
-TBD
+See the [LICENSE](https://github.com/GPT-Laboratory/voice-guided-imaging/blob/main/LICENSE) file for details.
