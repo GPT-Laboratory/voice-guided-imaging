@@ -50,7 +50,7 @@
 1. Download and install [Ollama](https://ollama.com/)
 2. Download Mistral Instruct using Ollama
 ```
-ollama pull mistral
+ollama pull mistral:instruct
 ```
 2. Clone the GitHub repository
 ```
