@@ -27,7 +27,7 @@
 ---
 
 ## Click On The Image To See The Demo In Action!
-[![Youtube Video](https://img.youtube.com/vi/iz3YnmFWz6s/0.jpg)](https://www.youtube.com/watch?v=iz3YnmFWz6s)
+[![Youtube Video](https://raw.githubusercontent.com/GPT-Laboratory/voice-guided-imaging/refs/heads/main/assets/thumbnail.png)](https://www.youtube.com/watch?v=iz3YnmFWz6s)
 
 </div>
 
